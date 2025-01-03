@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS Data (
+    id VARCHAR PRIMARY KEY,
+    user_id VARCHAR
+);
