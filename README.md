@@ -4,7 +4,7 @@ Build with React, Go, and PostgreSQL.
 
 ---
 ### Roadmap / Future Plans -
-* [ ] Learn about WebRTC
+* [*] Learn about WebRTC
 * [ ] Finalize v0 core features
 * [ ] Plan raw wireframe
 * [ ] Plan basic architecture digram for the backend
